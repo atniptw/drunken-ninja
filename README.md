@@ -1,4 +1,4 @@
 drunken-ninja
 =============
 
-Educational Android App
+Learning Rust Programming Language
