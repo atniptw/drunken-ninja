@@ -1,3 +1,4 @@
+#[derive(Debug)]
 pub struct Cell {
     pub current_value : i32,
     pub possible_values : Vec<i32>
